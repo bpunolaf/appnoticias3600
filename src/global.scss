@@ -26,5 +26,8 @@
 @import "~@ionic/angular/css/flex-utils.css";
 
 .text-primary{
-    color: blue
+    color: var(--ion-color-primary);
+}
+.article-source-name{
+    font-size:12px;
 }
